@@ -1,0 +1,7 @@
+﻿  BTree.cpp
+D:\C++ Study\VS\10_21_Linked_List_Binary_Tree\BTree\BTree\BTree.cpp(77,7): warning C4101: “SearchLetter”: 未引用的局部变量
+D:\C++ Study\VS\10_21_Linked_List_Binary_Tree\BTree\BTree\BTree.cpp(614,12): warning C4101: “p”: 未引用的局部变量
+D:\C++ Study\VS\10_21_Linked_List_Binary_Tree\BTree\BTree\BTree.cpp(747,12): warning C4101: “listPoint”: 未引用的局部变量
+D:\C++ Study\VS\10_21_Linked_List_Binary_Tree\BTree\BTree\BTree.cpp(744,12): warning C4101: “p”: 未引用的局部变量
+D:\C++ Study\VS\10_21_Linked_List_Binary_Tree\BTree\BTree\BTree.cpp(803,12): warning C4101: “p”: 未引用的局部变量
+  BTree.vcxproj -> D:\C++ Study\VS\10_21_Linked_List_Binary_Tree\BTree\x64\Debug\BTree.exe
